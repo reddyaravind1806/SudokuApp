@@ -14,14 +14,10 @@ Web Sudoku Puzzle Game
 > Welcome to my Sudoku puzzle game! - An interactive web Sudoku puzzle game developed in HTML, CSS, and JavaScript.
 
 ### Live Demo
-🔗 https://huaminghuangtw.github.io/Web-Sudoku-Puzzle-Game/
+🔗 https://eloquent-eclair-402461.netlify.app/web-sudoku-puzzle-game-master/
 
 ---
 
-### Motivation
-Since I first studied parallel programming, I developed a [personal side project](https://github.com/huaminghuangtw/Parallel-Sudoku-Solver) that aims to solve *large* Sudoku puzzles as efficiently as possible by means of various parallelization techniques and solving algorithms. The main focus/goal of this project, however, is not only to make an *interactive* Sudoku puzzle game that the user can play around with, but also to hone my web development/design skills. Based on [RedFlyer Coding's tutorial video on YouTube](https://www.youtube.com/watch?v=ea3UBpMHDoc&ab_channel=RedFlyerCoding), I've added several widgets and features/functionalities in the webpage which I hope you will enjoy and have fun!😊
-
----
 
 ### Description
 Sudoku is one of the most popular puzzle games of all time.
@@ -48,24 +44,6 @@ A collection of test grids of various difficulty levels are present in the [`Tes
 
 ---
 
-### Support the project
-Whether you use this project, have learned something from it, or just like it, please consider supporting it by buying me a coffee or making one-time donations via PayPal, so I can dedicate more time on open-source projects like this. 💪🙃
-
-<a href="https://www.buymeacoffee.com/huaming.huang" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="30" width="127"/>
-</a>
-<a href="https://www.paypal.me/huaminghuang" target="_blank">
-    <img src="https://ionicabizau.github.io/badges/paypal.svg" alt="paypal.me/huaminghuang" height="30" width="127"/>
-</a>
-
-Thanks!:heart: and Cheers!:beers:
-
----
-
-### Contact
-If you have any question or suggestion, feel free to contact me at huaming.huang.tw@gmail.com. Contributions are also welcomed. Please open a [pull-request](https://github.com/huaminghuangtw/Web-Sudoku-Puzzle-Game/compare) or an [issue](https://github.com/huaminghuangtw/Web-Sudoku-Puzzle-Game/issues/new) in this repository.
-
----
 
 ### License
 
